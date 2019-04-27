@@ -1,2 +1,2 @@
 # php-crud-pdo
-PHP CRUD using PDO
+Simple and Basic PHP CRUD using PDO
